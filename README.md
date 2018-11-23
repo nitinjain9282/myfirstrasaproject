@@ -16,3 +16,4 @@ git clone https://github.com/nitinjain9282/myfirstrasaproject.git
 3- create folder models/dialogue in your working directory
 
 python -m rasa_core.run -d models/dialogue -u models/current/nlu
+
